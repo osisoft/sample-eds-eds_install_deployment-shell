@@ -69,7 +69,5 @@ Open a bash terminal, and run the `remote.sh` script
 
 ---
 
-For the Edge Data Store deployment landing page [ReadMe](../)  
-For the Edge deployment landing page [ReadMe](../../)  
-For the Edge landing page [ReadMe](../../../)  
+For the Edge landing page [ReadMe](https://github.com/osisoft/OSI-Samples-Edge)  
 For the OSIsoft Samples landing page [ReadMe](https://github.com/osisoft/OSI-Samples)
