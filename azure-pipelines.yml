@@ -53,6 +53,9 @@ jobs:
           fileOriginal: $(InstallFile)
           fileLibrary: $(InstallFileLibrary)
 
+      - bash: curl -sL https://aka.ms/InstallAzureCLIDeb | bash
+        displayName: 'Install Azure CLI'
+
       - bash: |
           chmod +x test.sh
           chmod +x remote.sh
