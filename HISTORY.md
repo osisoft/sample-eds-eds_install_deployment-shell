@@ -1,5 +1,10 @@
 # Version History
 
+## 1.0.3 / 2021-03-03
+
+- Updated pipeline to use internal agent pool
+- Updated pipeline to reference main branch
+
 ## 1.0.2 / 2020-07-31
 
 - Add sample credentials file to gitignore and replace with placeholder

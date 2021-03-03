@@ -1,8 +1,8 @@
 # OSIsoft Edge Data Store Install Deployment Sample
 
-**Version:** 1.0.2
+**Version:** 1.0.3
 
-[![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/Edge/osisoft.sample-eds-eds_install_deployment-bash_scripts?repoName=osisoft%2Fsample-eds-eds_install_deployment-bash_scripts&branchName=master)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2644&repoName=osisoft%2Fsample-eds-eds_install_deployment-bash_scripts&branchName=master)
+[![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/Edge/osisoft.sample-eds-eds_install_deployment-bash_scripts?repoName=osisoft%2Fsample-eds-eds_install_deployment-bash_scripts&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2644&repoName=osisoft%2Fsample-eds-eds_install_deployment-bash_scripts&branchName=main)
 
 This sample uses bash scripts to install and configure Edge Data Store on a remote Linux edge device.
 
