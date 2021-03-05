@@ -13,8 +13,10 @@ az vm start -g $AzResourceGroup -n $AzVmName
 echo "Test: Wait for VM to install automated updates..."
 sleep 60
 
+echo "Test: Install ssh-client..."
+apt install openssh-client
 echo "Test: Install sshpass..."
-sudo apt install sshpass
+apt install sshpass
 
 echo "Test: Generate key for passwordless login to device..."
 echo "" | ssh-keygen -t rsa -b 4096 -C productreadiness -P ""
