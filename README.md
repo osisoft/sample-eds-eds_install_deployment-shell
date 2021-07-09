@@ -1,6 +1,6 @@
 # OSIsoft Edge Data Store Install Deployment Sample
 
-**Version:** 1.0.3
+**Version:** 1.0.4
 
 [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/Edge/osisoft.sample-eds-eds_install_deployment-shell?repoName=osisoft%2Fsample-eds-eds_install_deployment-shell&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=3085&repoName=osisoft%2Fsample-eds-eds_install_deployment-shell&branchName=main)
 
